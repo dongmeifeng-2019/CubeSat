@@ -1,1 +1,0 @@
-the discharge in this file includes both surface runoff and baseflow from MERRA-2 daily data
