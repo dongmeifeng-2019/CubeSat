@@ -1,0 +1,1 @@
+The discharge folder contains discharge estimation results for all experiments conducted for the paper.

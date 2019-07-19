@@ -1,0 +1,1 @@
+The files in this folder are BAM estimates using width at the best 20 AHG cross sections which are located in folder 01
