@@ -1,5 +1,5 @@
 # CubeSat
-This repo contains the source scripts and data used for a manuscript submitted to Water Resources Research.
-The widths data were extraxted from Landsat 8, Sentinel-2 and Planet lab imagery.
-The priors are USGS gauge discharge records and the reanalysis runoff-transformed discharge from NCEP, MERRA-2 and ERA5.
-The Orthogonals are the orthogonal lines at cross sections for each reach, from which the widths were extracted.
+This repo contains the source scripts, data and experiment results for the paper entitled "Comparing discharge estimates in high-order Arctic rivers derived solely from optical CubeSat, Landsat, and Sentinel-2 data" published in Water Resources Research.
+The data folder contains widths data, discharge priors and cross section information for each reach.
+The cache folder contains discharge estimation results for all experiments conducted for the paper.
+The src folder contains R scripts reproducing the figures (Figures 4-9) in the paper.
