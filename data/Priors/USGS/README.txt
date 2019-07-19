@@ -1,0 +1,1 @@
+The discharge is downloaded from USGS instantaneous discharge data, and averaged at the daily scale
